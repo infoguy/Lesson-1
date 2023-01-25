@@ -1,0 +1,1 @@
+window.globalProvideData('caption', '{"data":"WEBVTT%0D%0AKind:%20captions%0D%0ASource:%20Articulate%20Closed%20Captions%20Editor%0D%0ASource%20Version:%206.71.29339.0%0D%0A%0D%0A00:00:00.032%20--%3E%2000:00:01.984%0D%0AWhat%20is%20the%20Difference%20Between%20Telehealth%20%0D%0A%0D%0A00:00:01.985%20--%3E%2000:00:03.350%0D%0Aand%20Telemedicine?%20%0D%0A%0D%0A%0D%0A"}')
